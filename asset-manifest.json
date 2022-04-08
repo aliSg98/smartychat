@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smartychat/static/css/main.37448acd.chunk.css",
+    "main.js": "/smartychat/static/js/main.cfa15c07.chunk.js",
+    "main.js.map": "/smartychat/static/js/main.cfa15c07.chunk.js.map",
+    "runtime-main.js": "/smartychat/static/js/runtime-main.6b60ae00.js",
+    "runtime-main.js.map": "/smartychat/static/js/runtime-main.6b60ae00.js.map",
+    "static/js/2.59abb933.chunk.js": "/smartychat/static/js/2.59abb933.chunk.js",
+    "static/js/2.59abb933.chunk.js.map": "/smartychat/static/js/2.59abb933.chunk.js.map",
+    "index.html": "/smartychat/index.html",
+    "precache-manifest.c566a012f96dfe7a2bce587737ce8df7.js": "/smartychat/precache-manifest.c566a012f96dfe7a2bce587737ce8df7.js",
+    "service-worker.js": "/smartychat/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/smartychat/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.59abb933.chunk.js.LICENSE.txt": "/smartychat/static/js/2.59abb933.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b60ae00.js",
+    "static/js/2.59abb933.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.cfa15c07.chunk.js"
+  ]
+}
